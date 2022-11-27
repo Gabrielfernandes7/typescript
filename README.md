@@ -22,7 +22,3 @@ O compilador Typescript está instalado no diretório **node_modules** e pode se
 $ tsc <nome_do_arquivo.ts>
 ```
 Dessa forma o arquivo Typescript é compilado gerando um arquivo Javascript
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 30px;"/>
----->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 30px;"/>
